@@ -1,5 +1,6 @@
 {
-  "version": 1.1,
-  "url": "https://github.com/mitchbell412/VictoryLight/blob/main/Victory_Light_button_and_update_test.ino.bin"
+  "version": 1.2,
+  "url": "https://github.com/mitchbell412/VictoryLight/releases/download/v1.2/Victory_Light_button_and_update_test.ino.bin"
 
 }
+
